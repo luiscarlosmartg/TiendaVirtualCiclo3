@@ -6,5 +6,7 @@ public class EjemploGit {
 
 		String nombre = "Juan";
 		System.out.println(nombre);
+		System.out.println("new line");
+	
 	}
 }
